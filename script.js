@@ -7,10 +7,10 @@ const text = document.getElementById('text');
 const amount = document.getElementById('amount');
 
 const dummyTransactions = [
-  { id: 1, text: 'Trump Money', amount: 1200 },
-  { id: 2, text: 'Pinche Renta', amount: -700 },
+  { id: 1, text: 'Stimulus Check', amount: 1200 },
+  { id: 2, text: 'Renta', amount: -700 },
   { id: 3, text: 'Groceries', amount: -400 },
-  { id: 4, text: 'Unemployment', amount: 2000 },
+  { id: 4, text: 'Other Income', amount: 2000 },
 ];
 
 window.localStorage.clear();
