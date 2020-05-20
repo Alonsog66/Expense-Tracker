@@ -8,7 +8,7 @@ const amount = document.getElementById('amount');
 
 const dummyTransactions = [
   { id: 1, text: 'Stimulus Check', amount: 1200 },
-  { id: 2, text: 'Renta', amount: -700 },
+  { id: 2, text: 'Rent', amount: -700 },
   { id: 3, text: 'Groceries', amount: -400 },
   { id: 4, text: 'Other Income', amount: 2000 },
 ];
